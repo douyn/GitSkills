@@ -8,4 +8,12 @@ branch master
 
 branch master
 
-branch master bug fix
+branch master
+
+do some things
+
+do some things by dou
+
+test git commit -am ""
+test git commit -am ""
+
